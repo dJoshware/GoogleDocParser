@@ -5,8 +5,15 @@ A Python script that parses a specific Google doc for Unicode characters and the
 
 ---
 
+## Usage
+To see the output of the script:
+1. Follow the Codespace link below
+2. Click the play button (Run Python File) to the right of the script's tab
+
+---
+
 ## Codespace Link
-📎 [Google Doc Parser]()
+📎 [Google Doc Parser](https://miniature-fiesta-45j9j59v7g6cq49j.github.dev/)
 
 ---
 
