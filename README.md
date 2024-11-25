@@ -18,4 +18,4 @@ To see the output of the script:
 ---
 
 ## License
-📝 [MIT License](https://github.com/juicername6424/GoogleDocParser/blob/main/LICENSE)
+📝 [MIT License](https://github.com/djoshware/GoogleDocParser/blob/main/LICENSE)
